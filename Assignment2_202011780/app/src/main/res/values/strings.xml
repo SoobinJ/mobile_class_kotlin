@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment2/202011780 전수빈</string>
+    <string-array name="spinner_arrays">
+        <item>---</item>
+        <item>감량</item>
+        <item>유지</item>
+        <item>증가</item>
+    </string-array>
+</resources>
