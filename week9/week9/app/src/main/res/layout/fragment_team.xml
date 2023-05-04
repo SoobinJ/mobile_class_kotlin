@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TeamFragment">
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="전수빈 이성진 송채영 김재연" />
+
+</FrameLayout>
